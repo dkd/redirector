@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hputzek/redirector.git"
+    "url": "git+https://github.com/dkd/redirector.git"
   },
   "keywords": [
     "device",
@@ -17,9 +17,9 @@
   "author": "Hendrik Putzek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hputzek/redirector/issues"
+    "url": "https://github.com/dkd/redirector/issues"
   },
-  "homepage": "https://github.com/hputzek/redirector#readme",
+  "homepage": "https://github.com/dkd/redirector#readme",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
